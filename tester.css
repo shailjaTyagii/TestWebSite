@@ -5,7 +5,7 @@ html{
 #header nav{
     position: relative;
     padding: 20px 10px;
-    background: firebrick;
+    background: pink;
 }
 
 #header nav ul{
@@ -29,7 +29,7 @@ h1{
     font-weight: 200;
     margin: auto;
     width: 50%;
-    border: 5px dotted red;
+    border: 5px dotted black;
     padding: 10px;
     text-align: center;
     font-size: 50px;
