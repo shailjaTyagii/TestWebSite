@@ -1,0 +1,44 @@
+html{
+    background: white;
+}
+
+#header nav{
+    position: relative;
+    padding: 20px 10px;
+    background: firebrick;
+}
+
+#header nav ul{
+    list-style: none;
+    position: absolute;
+    right: 30%;
+    top: 50%;
+    transform: translate(0,-80%);
+}
+
+#header nav li{
+    float:left;
+    margin:15px;
+    font-size: 25px;
+    color:white;
+}
+
+h1{
+    color: deeppink;
+    outline-color: black;
+    font-weight: 200;
+    margin: auto;
+    width: 50%;
+    border: 5px dotted red;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color: darkgreen;
+}
